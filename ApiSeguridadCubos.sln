@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSeguridadCubos", "ApiSeguridadCubos\ApiSeguridadCubos.csproj", "{65071A25-F6A1-41C0-A1BD-5C7704EF2066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65071A25-F6A1-41C0-A1BD-5C7704EF2066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65071A25-F6A1-41C0-A1BD-5C7704EF2066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65071A25-F6A1-41C0-A1BD-5C7704EF2066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65071A25-F6A1-41C0-A1BD-5C7704EF2066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D827BD-086F-41AA-934F-96F49A013D2C}
+	EndGlobalSection
+EndGlobal
